@@ -7,11 +7,34 @@ property: value
 */
 
 mark {
-  background-color: pink;
+  background-color: #fe5;
+}
+/* hexadecimal color: Black to White, with grayscale in between
+0123456789abcdef
+*/
+
+ins {
+  color: #f4f;
+    }
+.underline {
+      text-decoration: underline;
+    }
+.italic {
+  font-style: italic;
 }
 
-*/ class selector */
+.small-caps{
+  font-variant: small-caps;
+}
 
+
+*/ class selector */
+/*
 redlining {
   color: red;
 }
+ */
+
+ .underline {
+   text-decoration: underline;
+ }
